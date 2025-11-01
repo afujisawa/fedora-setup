@@ -363,7 +363,7 @@ flatpak update --appstream
 # Instalar pacotes rpm
 instalar_rpm_lote cabextract code curl fish fira-code-nerd-fonts git onlyoffice-desktopeditors xorg-x11-font-utils unzip
 
-instalar_flatpak com.bitwarden.desktop com.microsoft.Teams org.onlyoffice.desktopeditors
+instalar_flatpak com.microsoft.Teams org.onlyoffice.desktopeditors
 
 #Configurar fish com oh-my-posh
 trocar_shell "$USER"
